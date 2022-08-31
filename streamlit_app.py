@@ -72,18 +72,8 @@ if streamlit.button('Add a Fruit to the List'):
               
 
 
-streamlit.stop()
-
-import snowflake.connector
-
-
-
+#streamlit.stop()
 #my_cur = my_cnx.cursor()
-
-
-
-
-
 #streamlit.write('Thanks for adding', add_my_fruit)
 
 
